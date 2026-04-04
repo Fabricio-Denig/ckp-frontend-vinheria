@@ -31,3 +31,4 @@ Página com formulário para contato com a vinheria.
     - Luan Garbin - (RM: 571276)
 
 -> Link para o site publicado no GitHub Pages:
+https://fabricio-denig.github.io/ckp-frontend-vinheria/
