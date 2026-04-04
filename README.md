@@ -9,8 +9,20 @@
     Durante a pandemia, a vinheria sofreu uma queda no movimento devido às restrições de mobilidade, fazendo com que muitos consumidores migrassem para compras online. Diante desse cenário, o proprietário Giulio, incentivado por sua filha Bianca, decidiu investir na criação de um portal de e-commerce para expandir o negócio e alcançar clientes também no ambiente digital.
 
 -> Estrutura do projeto (explicação das páginas):
+    index.html  
+Página inicial com apresentação da Vinheria Agnello, proposta do site e vídeo sobre vinhos.
 
+    historia.html  
+Apresenta a história da empresa e sua trajetória no mercado.
 
+    produtos.html  
+Mostra alguns produtos disponíveis e uma tabela com tipos de vinhos.
+
+    harmonizacao.html  
+Apresenta dicas de harmonização entre vinhos e alimentos.
+
+    contato.html  
+Página com formulário para contato com a vinheria.
 
 -> Nome dos integrantes:
 
