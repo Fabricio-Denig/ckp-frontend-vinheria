@@ -170,3 +170,18 @@ ul {
     display: inline-block;
     margin: 20px;
 }
+
+main section{
+    border: solid 3px #5b1f2a;
+}
+
+nav a.ativo{
+    color: #f5d7a1;
+    text-decoration: underline;
+}
+
+label {
+    color: #5b1f2a;
+    font-weight: bold;
+    font-size: 18px;
+}
