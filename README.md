@@ -46,3 +46,17 @@ Luan Garbin (RM: 571276)
 https://fabricio-denig.github.io/ckp-frontend-vinheria/
 
 ---
+
+## Efeitos Visuais
+
+Para o Checkpoint 02, foi criado o arquivo efeitos.css, importado no arquivo principal style.css. Esse arquivo contém os estilos responsáveis pelos efeitos visuais do site.
+
+Foram utilizadas pseudo-classes como hover no menu de navegação e nos botões, focus nos campos de formulário e nth-child nas linhas da tabela para alternar cores.
+
+Também foram utilizados pseudo-elementos como after nos links do menu para criar separadores visuais, first-letter nos parágrafos para destacar a primeira letra e placeholder para estilizar os textos dos campos de entrada.
+
+Foi criada uma animação com keyframes chamada "aparecer", aplicada nas seções do site para tornar a entrada do conteúdo mais suave.
+
+Foram aplicadas transições em elementos interativos como links, botões e campos do formulário, garantindo mudanças visuais mais suaves.
+
+Também foram utilizadas transformações como scale em botões e imagens ao passar o mouse, melhorando a interação visual com o usuário.
