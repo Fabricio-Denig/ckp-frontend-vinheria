@@ -1,9 +1,17 @@
+@import url("efeitos.css");
+
+html, body {
+    height: 100%;
+}
+
 body {
-    background-color: #f5efe6;
+    background-color:rgba(189, 189, 189, 0.7);
     color: #2b1b17;
     margin: 0;
     text-align: center;
     font-family: Georgia, 'Times New Roman', serif;
+    min-height: 100%;
+
 }
 
 header {
@@ -52,6 +60,14 @@ main {
     max-width: 1000px;
     margin: 30px auto;
     padding: 0 20px;
+    min-height: 70vh;
+
+}
+
+main a:hover {
+    text-decoration: underline;
+    font-size: 24px;
+    transition: text-decoration 0.3s ease;
 }
 
 section {
@@ -81,6 +97,7 @@ iframe {
     width: 560px;
     height: 315px;
     margin: 20px 0;
+    border-radius: 2vw
 }
 
 table {
@@ -113,9 +130,10 @@ input, textarea {
     max-width: 400px;
     padding: 10px;
     margin: 10px 0;
-    border: 1px solid #ccc;
+    border: 2px solid #c7a86d;
     border-radius: 8px;
     font-size: 16px;
+    transition: 0.2s;
 }
 
 button {
